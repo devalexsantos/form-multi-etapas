@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Formulário Multi Etapas com Context Api</h1>
 
 <p align="center">Formulário de contato com multi-etapas que salva o estado de cada etapa em um contexto global.</p>
@@ -49,13 +48,3 @@ As ferramentas utilizadas foram:
 </div>
 <a href="https://github.com/devalexsantos">Alex Santos</a>
 </div>
-=======
-# Formulário Multi Etapas com Context API
-Utilizando:
-- Styled Components;
-- TypeScript;
-- React Router;
-- Context API;
-
-<a href="https://form-multi-etapas.vercel.app/" target="_blank">Clique aqui para visualizar Online</a>
->>>>>>> 87bc976c876e8b569ebb550e7d58a551f16c0d47
